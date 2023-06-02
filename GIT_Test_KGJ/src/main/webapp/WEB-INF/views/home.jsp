@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	shared디렉토리 삭제 후 변경
+	shared디렉토리 삭제 후 변경2
 </h1>
 
 
