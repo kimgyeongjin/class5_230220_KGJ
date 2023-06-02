@@ -8,8 +8,9 @@
 </head>
 <body>
 <h1>
-	GIT연동테스트-home.jsp파일 변경함
+	shared디렉토리 삭제 후 변경
 </h1>
+
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
